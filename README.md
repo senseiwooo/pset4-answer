@@ -79,13 +79,13 @@ As a hint, you might find the built-in [Math object](https://developer.mozilla.o
 
 ### Exercise 9 (`Money.`)
 
-Write a function to convert a number of ounces into an equivalent number of tons, pounds, and ounces. Use a greedy algorithm, meaning you should use as many of the larger units of weight as you can (i.e., tons, pounds, and ounces, in that order). Report each unit's value on its own line. Test your code by clicking the `Money` button.
+Write a function to convert a number of pennies (expressed as a whole number) into an equivalent number of dollars, quarters, dimes, nickels, and pennies. Use a greedy algorithm, meaning you should use as many of the larger denominations as you can (i.e., dollars, quarters, dimes, nickels, and pennies, in that order). Report each denomination's value on its own line. Test your code by clicking the `Money` button.
 
 As a hint, you might find the built-in [Math object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) helpful when solving this problem.
 
 ### Exercise 10 (`Change.`)
 
-Write a function to ask the user for a dollar amount less 1.00 (leading zeroes are required, but dollar signs should be omitted). Display the fewest number of coins (quarters, dimes, nicks, and pennies) with which the change can be made. Test your code by clicking the `Change` button.
+Write a function to ask the user for a dollar amount less than 1.00 (leading zeroes are required, but dollar signs should be omitted). Display the fewest number of coins (quarters, dimes, nicks, and pennies) with which the change can be made. Test your code by clicking the `Change` button.
 
 As a hint, you might find the built-in [Math object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) helpful when solving this problem.
 
